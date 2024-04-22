@@ -96,19 +96,19 @@ print("Accuracy: ",Accuracy)
 ```
 ## output:
 
-# dataset:
+### dataset:
 ![image](https://github.com/vikamuhan-reddy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144928933/4d81269f-3b76-4c9f-b739-fedfa2bce5b8)
 
-# dataset.dtypes:
+### dataset.dtypes:
 ![image](https://github.com/vikamuhan-reddy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144928933/aba75df7-8384-46a4-8569-b57784f00c4f)
 
-# dataset after catcodes:
+### dataset after catcodes:
 ![image](https://github.com/vikamuhan-reddy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144928933/34b8ca4f-99e2-495d-9e02-534b26fb18f3)
 
-# Accuracy:
+### Accuracy:
 ![image](https://github.com/vikamuhan-reddy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144928933/f83af9e4-a26c-4c0e-96ac-40e67fedb68e)
 
-# y_predicted value:
+### y_predicted value:
 ![image](https://github.com/vikamuhan-reddy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144928933/04a9f737-8c06-4b75-87ce-322e17f01598)
 
 
