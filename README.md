@@ -12,9 +12,9 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Compute Predictions
 3. Compute Loss
 4. Compute Gradients
-5.Update Parameters
-6.Continue the Process
-7.Evaluate and Predict the data
+5. Update Parameters
+6. Continue the Process
+7. Evaluate and Predict the data
 
 ## Program:
 ```py
